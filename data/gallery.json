@@ -1,0 +1,827 @@
+﻿[
+    {
+        "file":  "images/gallery/poligrafiya/01.jpg",
+        "section":  "poligrafiya",
+        "name":  "01.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/02.jpg",
+        "section":  "poligrafiya",
+        "name":  "02.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/03.jpg",
+        "section":  "poligrafiya",
+        "name":  "03.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/04.jpg",
+        "section":  "poligrafiya",
+        "name":  "04.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/05.jpg",
+        "section":  "poligrafiya",
+        "name":  "05.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/06.jpg",
+        "section":  "poligrafiya",
+        "name":  "06.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/07.jpg",
+        "section":  "poligrafiya",
+        "name":  "07.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/08.jpg",
+        "section":  "poligrafiya",
+        "name":  "08.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/09.jpg",
+        "section":  "poligrafiya",
+        "name":  "09.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/11.png",
+        "section":  "poligrafiya",
+        "name":  "11.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/12.jpg",
+        "section":  "poligrafiya",
+        "name":  "12.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/13.jpg",
+        "section":  "poligrafiya",
+        "name":  "13.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/14.jpg",
+        "section":  "poligrafiya",
+        "name":  "14.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/15.jpg",
+        "section":  "poligrafiya",
+        "name":  "15.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/16.jpg",
+        "section":  "poligrafiya",
+        "name":  "16.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/17.jpg",
+        "section":  "poligrafiya",
+        "name":  "17.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/18.jpg",
+        "section":  "poligrafiya",
+        "name":  "18.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/19.jpg",
+        "section":  "poligrafiya",
+        "name":  "19.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/20.jpg",
+        "section":  "poligrafiya",
+        "name":  "20.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/21.jpg",
+        "section":  "poligrafiya",
+        "name":  "21.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/22.jpg",
+        "section":  "poligrafiya",
+        "name":  "22.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/23.jpg",
+        "section":  "poligrafiya",
+        "name":  "23.jpg"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/24.png",
+        "section":  "poligrafiya",
+        "name":  "24.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/25.png",
+        "section":  "poligrafiya",
+        "name":  "25.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/26.png",
+        "section":  "poligrafiya",
+        "name":  "26.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/27.png",
+        "section":  "poligrafiya",
+        "name":  "27.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/28.png",
+        "section":  "poligrafiya",
+        "name":  "28.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/29.png",
+        "section":  "poligrafiya",
+        "name":  "29.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/30.png",
+        "section":  "poligrafiya",
+        "name":  "30.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/31.png",
+        "section":  "poligrafiya",
+        "name":  "31.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/32.png",
+        "section":  "poligrafiya",
+        "name":  "32.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/33.png",
+        "section":  "poligrafiya",
+        "name":  "33.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/34.png",
+        "section":  "poligrafiya",
+        "name":  "34.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/35.png",
+        "section":  "poligrafiya",
+        "name":  "35.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/36.png",
+        "section":  "poligrafiya",
+        "name":  "36.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/37.png",
+        "section":  "poligrafiya",
+        "name":  "37.png"
+    },
+    {
+        "file":  "images/gallery/poligrafiya/38.png",
+        "section":  "poligrafiya",
+        "name":  "38.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/01.png",
+        "section":  "katalogs",
+        "name":  "01.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/02.png",
+        "section":  "katalogs",
+        "name":  "02.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/03.png",
+        "section":  "katalogs",
+        "name":  "03.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/04.png",
+        "section":  "katalogs",
+        "name":  "04.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/05.png",
+        "section":  "katalogs",
+        "name":  "05.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/06.png",
+        "section":  "katalogs",
+        "name":  "06.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/07.png",
+        "section":  "katalogs",
+        "name":  "07.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/10.png",
+        "section":  "katalogs",
+        "name":  "10.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/11.png",
+        "section":  "katalogs",
+        "name":  "11.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/12.png",
+        "section":  "katalogs",
+        "name":  "12.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/13.png",
+        "section":  "katalogs",
+        "name":  "13.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/21.png",
+        "section":  "katalogs",
+        "name":  "21.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/22.png",
+        "section":  "katalogs",
+        "name":  "22.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/23.png",
+        "section":  "katalogs",
+        "name":  "23.png"
+    },
+    {
+        "file":  "images/gallery/katalogs/24.png",
+        "section":  "katalogs",
+        "name":  "24.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/01.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "01.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/02.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "02.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/03.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "03.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/04.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "04.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/05.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "05.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/06.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "06.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/07.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "07.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/08.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "08.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/09.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "09.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/10.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "10.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/11.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "11.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/12.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "12.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/13.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "13.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/14.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "14.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/15.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "15.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/16.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "16.png"
+    },
+    {
+        "file":  "images/gallery/naruzhnaya-reklama/17.png",
+        "section":  "naruzhnaya-reklama",
+        "name":  "17.png"
+    },
+    {
+        "file":  "images/gallery/vystavki/01.jpg",
+        "section":  "vystavki",
+        "name":  "01.jpg"
+    },
+    {
+        "file":  "images/gallery/vystavki/02.png",
+        "section":  "vystavki",
+        "name":  "02.png"
+    },
+    {
+        "file":  "images/gallery/interior/01.png",
+        "section":  "interior",
+        "name":  "01.png"
+    },
+    {
+        "file":  "images/gallery/interior/02.png",
+        "section":  "interior",
+        "name":  "02.png"
+    },
+    {
+        "file":  "images/gallery/interior/03.png",
+        "section":  "interior",
+        "name":  "03.png"
+    },
+    {
+        "file":  "images/gallery/interior/04.png",
+        "section":  "interior",
+        "name":  "04.png"
+    },
+    {
+        "file":  "images/gallery/interior/05.png",
+        "section":  "interior",
+        "name":  "05.png"
+    },
+    {
+        "file":  "images/gallery/interior/06.png",
+        "section":  "interior",
+        "name":  "06.png"
+    },
+    {
+        "file":  "images/gallery/interior/07.png",
+        "section":  "interior",
+        "name":  "07.png"
+    },
+    {
+        "file":  "images/gallery/interior/08.jpg",
+        "section":  "interior",
+        "name":  "08.jpg"
+    },
+    {
+        "file":  "images/gallery/interior/09.png",
+        "section":  "interior",
+        "name":  "09.png"
+    },
+    {
+        "file":  "images/gallery/interior/10.png",
+        "section":  "interior",
+        "name":  "10.png"
+    },
+    {
+        "file":  "images/gallery/interior/11.png",
+        "section":  "interior",
+        "name":  "11.png"
+    },
+    {
+        "file":  "images/gallery/interior/12.png",
+        "section":  "interior",
+        "name":  "12.png"
+    },
+    {
+        "file":  "images/gallery/interior/13.png",
+        "section":  "interior",
+        "name":  "13.png"
+    },
+    {
+        "file":  "images/gallery/interior/14.png",
+        "section":  "interior",
+        "name":  "14.png"
+    },
+    {
+        "file":  "images/gallery/interior/15.png",
+        "section":  "interior",
+        "name":  "15.png"
+    },
+    {
+        "file":  "images/gallery/interior/16.png",
+        "section":  "interior",
+        "name":  "16.png"
+    },
+    {
+        "file":  "images/gallery/interior/17.png",
+        "section":  "interior",
+        "name":  "17.png"
+    },
+    {
+        "file":  "images/gallery/branding-auto/01.jpg",
+        "section":  "branding-auto",
+        "name":  "01.jpg"
+    },
+    {
+        "file":  "images/gallery/branding-auto/02.png",
+        "section":  "branding-auto",
+        "name":  "02.png"
+    },
+    {
+        "file":  "images/gallery/branding-auto/03.png",
+        "section":  "branding-auto",
+        "name":  "03.png"
+    },
+    {
+        "file":  "images/gallery/branding-auto/04.jpg",
+        "section":  "branding-auto",
+        "name":  "04.jpg"
+    },
+    {
+        "file":  "images/gallery/logos/01.jpg",
+        "section":  "logos",
+        "name":  "01.jpg"
+    },
+    {
+        "file":  "images/gallery/logos/02.jpg",
+        "section":  "logos",
+        "name":  "02.jpg"
+    },
+    {
+        "file":  "images/gallery/logos/03.jpg",
+        "section":  "logos",
+        "name":  "03.jpg"
+    },
+    {
+        "file":  "images/gallery/logos/04.jpg",
+        "section":  "logos",
+        "name":  "04.jpg"
+    },
+    {
+        "file":  "images/gallery/logos/05.jpg",
+        "section":  "logos",
+        "name":  "05.jpg"
+    },
+    {
+        "file":  "images/gallery/logos/06.png",
+        "section":  "logos",
+        "name":  "06.png"
+    },
+    {
+        "file":  "images/gallery/logos/07.png",
+        "section":  "logos",
+        "name":  "07.png"
+    },
+    {
+        "file":  "images/gallery/logos/08.png",
+        "section":  "logos",
+        "name":  "08.png"
+    },
+    {
+        "file":  "images/gallery/logos/09.png",
+        "section":  "logos",
+        "name":  "09.png"
+    },
+    {
+        "file":  "images/gallery/vector1/01.jpg",
+        "section":  "vector1",
+        "name":  "01.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/02.jpg",
+        "section":  "vector1",
+        "name":  "02.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/03.jpg",
+        "section":  "vector1",
+        "name":  "03.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/04.jpg",
+        "section":  "vector1",
+        "name":  "04.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/05.jpg",
+        "section":  "vector1",
+        "name":  "05.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/06.jpg",
+        "section":  "vector1",
+        "name":  "06.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/07.jpg",
+        "section":  "vector1",
+        "name":  "07.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/08.jpg",
+        "section":  "vector1",
+        "name":  "08.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/09.jpg",
+        "section":  "vector1",
+        "name":  "09.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/10.jpg",
+        "section":  "vector1",
+        "name":  "10.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/11.jpg",
+        "section":  "vector1",
+        "name":  "11.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/12.jpg",
+        "section":  "vector1",
+        "name":  "12.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/13.jpg",
+        "section":  "vector1",
+        "name":  "13.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/14.jpg",
+        "section":  "vector1",
+        "name":  "14.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/15.jpg",
+        "section":  "vector1",
+        "name":  "15.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/16.jpg",
+        "section":  "vector1",
+        "name":  "16.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/17.jpg",
+        "section":  "vector1",
+        "name":  "17.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/18.jpg",
+        "section":  "vector1",
+        "name":  "18.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/19.jpg",
+        "section":  "vector1",
+        "name":  "19.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/20.jpg",
+        "section":  "vector1",
+        "name":  "20.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/21.jpg",
+        "section":  "vector1",
+        "name":  "21.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/22.jpg",
+        "section":  "vector1",
+        "name":  "22.jpg"
+    },
+    {
+        "file":  "images/gallery/vector1/23.jpg",
+        "section":  "vector1",
+        "name":  "23.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/01.jpg",
+        "section":  "vector2",
+        "name":  "01.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/02.jpg",
+        "section":  "vector2",
+        "name":  "02.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/03.jpg",
+        "section":  "vector2",
+        "name":  "03.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/04.jpg",
+        "section":  "vector2",
+        "name":  "04.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/05.jpg",
+        "section":  "vector2",
+        "name":  "05.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/06.jpg",
+        "section":  "vector2",
+        "name":  "06.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/07.jpg",
+        "section":  "vector2",
+        "name":  "07.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/08.jpg",
+        "section":  "vector2",
+        "name":  "08.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/09.jpg",
+        "section":  "vector2",
+        "name":  "09.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/10.jpg",
+        "section":  "vector2",
+        "name":  "10.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/11.jpg",
+        "section":  "vector2",
+        "name":  "11.jpg"
+    },
+    {
+        "file":  "images/gallery/vector2/12.jpg",
+        "section":  "vector2",
+        "name":  "12.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/01.jpg",
+        "section":  "vector3",
+        "name":  "01.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/02.jpg",
+        "section":  "vector3",
+        "name":  "02.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/03.jpg",
+        "section":  "vector3",
+        "name":  "03.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/04.jpg",
+        "section":  "vector3",
+        "name":  "04.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/05.jpg",
+        "section":  "vector3",
+        "name":  "05.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/05-u.jpg",
+        "section":  "vector3",
+        "name":  "05-u.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/06.jpg",
+        "section":  "vector3",
+        "name":  "06.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/07.jpg",
+        "section":  "vector3",
+        "name":  "07.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/08.jpg",
+        "section":  "vector3",
+        "name":  "08.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/09.jpg",
+        "section":  "vector3",
+        "name":  "09.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/10.jpg",
+        "section":  "vector3",
+        "name":  "10.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/11.jpg",
+        "section":  "vector3",
+        "name":  "11.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/12.jpg",
+        "section":  "vector3",
+        "name":  "12.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/13.jpg",
+        "section":  "vector3",
+        "name":  "13.jpg"
+    },
+    {
+        "file":  "images/gallery/vector3/14.jpg",
+        "section":  "vector3",
+        "name":  "14.jpg"
+    },
+    {
+        "file":  "images/gallery/illustration/01.png",
+        "section":  "illustration",
+        "name":  "01.png"
+    },
+    {
+        "file":  "images/gallery/illustration/02.png",
+        "section":  "illustration",
+        "name":  "02.png"
+    },
+    {
+        "file":  "images/gallery/illustration/03.png",
+        "section":  "illustration",
+        "name":  "03.png"
+    },
+    {
+        "file":  "images/gallery/illustration/04.png",
+        "section":  "illustration",
+        "name":  "04.png"
+    },
+    {
+        "file":  "images/gallery/illustration/06.jpg",
+        "section":  "illustration",
+        "name":  "06.jpg"
+    },
+    {
+        "file":  "images/gallery/illustration/07.jpg",
+        "section":  "illustration",
+        "name":  "07.jpg"
+    },
+    {
+        "file":  "images/gallery/marketplaces/01.png",
+        "section":  "marketplaces",
+        "name":  "01.png"
+    },
+    {
+        "file":  "images/gallery/marketplaces/02.png",
+        "section":  "marketplaces",
+        "name":  "02.png"
+    },
+    {
+        "file":  "images/gallery/marketplaces/03.png",
+        "section":  "marketplaces",
+        "name":  "03.png"
+    },
+    {
+        "file":  "images/gallery/marketplaces/04.png",
+        "section":  "marketplaces",
+        "name":  "04.png"
+    },
+    {
+        "file":  "images/gallery/marketplaces/05.png",
+        "section":  "marketplaces",
+        "name":  "05.png"
+    },
+    {
+        "file":  "images/gallery/marketplaces/06.png",
+        "section":  "marketplaces",
+        "name":  "06.png"
+    },
+    {
+        "file":  "images/gallery/marketplaces/07.png",
+        "section":  "marketplaces",
+        "name":  "07.png"
+    },
+    {
+        "file":  "images/gallery/marketplaces/08.png",
+        "section":  "marketplaces",
+        "name":  "08.png"
+    }
+]
