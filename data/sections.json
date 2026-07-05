@@ -37,17 +37,17 @@
     {
         "id": "vector1",
         "title": "Векторизация (логотипы, гербы, гравюры)",
-        "pdf": null
+        "pdf": "pdf/vector1.pdf"
     },
     {
         "id": "vector2",
         "title": "Векторизация (экслибрисы, портреты, питомцы)",
-        "pdf": null
+        "pdf": "pdf/vector2.pdf"
     },
     {
         "id": "vector3",
         "title": "Векторизация (техника, архитектура, иконы, образы)",
-        "pdf": null
+        "pdf": "pdf/vector3.pdf"
     },
     {
         "id": "illustration",
