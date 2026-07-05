@@ -2,61 +2,61 @@
     {
         "id": "poligrafiya",
         "title": "Полиграфия",
-        "pdf": "pdf/poligrafiya.pdf"
+        "pdf": null
     },
     {
         "id": "katalogs",
         "title": "Каталоги и презентации",
-        "pdf": "pdf/katalogs.pdf"
+        "pdf": null
     },
     {
         "id": "naruzhnaya-reklama",
         "title": "Наружная реклама",
-        "pdf": "pdf/naruzhnaya-reklama.pdf"
+        "pdf": null
     },
     {
         "id": "vystavki",
         "title": "Оформление выставок",
-        "pdf": "pdf/vystavki.pdf"
+        "pdf": null
     },
     {
         "id": "interior",
         "title": "Оформление интерьеров",
-        "pdf": "pdf/interior.pdf"
+        "pdf": null
     },
     {
         "id": "branding-auto",
         "title": "Брендирование авто",
-        "pdf": "pdf/branding-auto.pdf"
+        "pdf": null
     },
     {
         "id": "logos",
         "title": "Логотипы и фирменный стиль",
-        "pdf": "pdf/logos.pdf"
+        "pdf": null
     },
     {
         "id": "vector1",
         "title": "Векторизация (логотипы, гербы, гравюры)",
-        "pdf": "pdf/vector1.pdf"
+        "pdf": null
     },
     {
         "id": "vector2",
         "title": "Векторизация (экслибрисы, портреты, питомцы)",
-        "pdf": "pdf/vector2.pdf"
+        "pdf": null
     },
     {
         "id": "vector3",
         "title": "Векторизация (техника, архитектура, иконы, образы)",
-        "pdf": "pdf/vector3.pdf"
+        "pdf": null
     },
     {
         "id": "illustration",
         "title": "Иллюстрации",
-        "pdf": "pdf/illustration.pdf"
+        "pdf": null
     },
     {
         "id": "marketplaces",
         "title": "Маркетплейсы",
-        "pdf": "pdf/marketplaces.pdf"
+        "pdf": null
     }
 ]
