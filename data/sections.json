@@ -52,7 +52,7 @@
     {
         "id": "illustration",
         "title": "Иллюстрации",
-        "pdf": null
+        "pdf": "pdf/illustration.pdf"
     },
     {
         "id": "marketplaces",
