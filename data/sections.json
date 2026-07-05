@@ -2,22 +2,22 @@
     {
         "id": "poligrafiya",
         "title": "Полиграфия",
-        "pdf": null
+        "pdf": "pdf/poligrafiya.pdf"
     },
     {
         "id": "katalogs",
         "title": "Каталоги и презентации",
-        "pdf": null
+        "pdf": "pdf/katalogs.pdf"
     },
     {
         "id": "naruzhnaya-reklama",
         "title": "Наружная реклама",
-        "pdf": null
+        "pdf": "pdf/naruzhnaya-reklama.pdf"
     },
     {
         "id": "vystavki",
         "title": "Оформление выставок",
-        "pdf": null
+        "pdf": "pdf/vystavki.pdf"
     },
     {
         "id": "interior",
