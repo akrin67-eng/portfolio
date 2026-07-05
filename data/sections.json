@@ -22,17 +22,17 @@
     {
         "id": "interior",
         "title": "Оформление интерьеров",
-        "pdf": null
+        "pdf": "pdf/interior.pdf"
     },
     {
         "id": "branding-auto",
         "title": "Брендирование авто",
-        "pdf": null
+        "pdf": "pdf/branding-auto.pdf"
     },
     {
         "id": "logos",
         "title": "Логотипы и фирменный стиль",
-        "pdf": null
+        "pdf": "pdf/logos.pdf"
     },
     {
         "id": "vector1",
