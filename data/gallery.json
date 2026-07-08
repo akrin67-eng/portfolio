@@ -790,6 +790,11 @@
         "name":  "01.png"
     },
     {
+        "file":  "images/gallery/marketplaces/001.png",
+        "section":  "marketplaces",
+        "name":  "001.png"
+    },
+    {
         "file":  "images/gallery/marketplaces/02.png",
         "section":  "marketplaces",
         "name":  "02.png"
